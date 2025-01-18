@@ -1,8 +1,6 @@
 # deepdive-app
 
-An hastily open-sourced failed startup. This is the frontend of DeepDive.
-What's here roughly reflects what's in the YouTube video plus a month or so of development: https://www.youtube.com/watch?v=mZ9mRn0zGo8
-
+This is the frontend of DeepDive.
 
 ## overview
 
